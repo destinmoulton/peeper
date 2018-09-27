@@ -14,6 +14,7 @@
         "got": "^9.2.2",
         "inquirer": "^6.2.0",
         "lodash": "^4.17.11",
-        "minimist": "^1.2.0"
+        "minimist": "^1.2.0",
+        "nodemailer": "^4.6.8"
     }
 }
